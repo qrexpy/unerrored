@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Zeyad (aka 3rror)</h1>
-<h3 align="center">A fullstack developer from Egypt.</h3>
+<h1 align="center">Hello there 👋, I'm qrexxed</h1>
+<h3 align="center">A fullstack developer from Egypt. (Originally from UK)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unerrored&label=Views&color=800eb5&style=flat" alt="unerrored" /> </p>
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **zbekhet@com.svu.edu.eg**
+- 📫 How to reach me **qrexxed** on Discord.
 
-- ⚡ Fun fact **I lose interest fast.**
+- ⚡ Fun fact **I'm a fullstack dev btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
